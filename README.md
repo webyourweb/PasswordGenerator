@@ -9,5 +9,7 @@ Create your password
 To Use
 
 $passGen = new PasswordGenerator();
+
 $passGen->generate();
+
 $passGent->getPassword();
