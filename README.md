@@ -1,11 +1,13 @@
 # PasswordGenerator
 
+## Requirements   
 * PHP version - php7.4  
 * PHPUnit version - 7.5  
   
-Create your password, to simple use:
+## Usage  
+
 ```php
-require 'autoload.php';
+require_once __DIR__ . '/autoload.php';
 
 use core\PasswordGenerator;
 
